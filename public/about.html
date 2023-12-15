@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SNUST Restaurant</title>
+    <link rel="stylesheet" href="./common.css">
+    <style>
+      /* InfoWindow 스타일 지정 */
+      .info-window {
+          background-color: white;
+          color: black;
+          font-weight: bold;
+          text-align: center;
+          font-size: 14px;
+          padding: 10px;
+      }
+  </style>
+    <script src="/common.js"></script>
+    <script
+    defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCayD7PmApkVrH9kRWyXcNN5SVhjvjtMA0&callback=initMap"
+  ></script>
+  <script>
+    window.initMap = function () {
+      const map = new google.maps.Map(document.getElementById("map"), {
+        center: { lat: 37.630668, lng: 127.079295 },
+        zoom: 15,
+      });
+
+      const marker = new google.maps.Marker({
+                position: { lat: 37.630668, lng: 127.079295 },
+                label: "S",
+                map: map,
+      });
+
+      const infoWindow = new google.maps.InfoWindow();
+
+      marker.addListener("click", function () {
+          infoWindow.setOptions({
+              content: "SNUST 식당",
+          });
+          infoWindow.setContent('<div class="info-window">' + infoWindow.getContent() + '</div>');
+          infoWindow.open(map, marker);
+      });
+    };
+  </script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div>
+        <a href="/index.html">
+          <img src="/img/logo.png" alt="#" class="SNUST">
+        </a>
+      </div>
+      
+      <ul class="nav_menu">
+        <li><a href="/about.html" style="border-bottom: solid;">매장 소개</a></li>
+        <li><a href="/logged/reservation.html">예약</a></li>
+        <li><a href="/order.html">상품주문</a></li>
+        <li><a href="/review.html">리뷰 게시판</a></li>
+      </ul>
+
+      <div class="my"><a href="login.html">로그인</a></div>
+    </nav>
+
+    <h1>SNUST</h1>
+<pre style="font-weight: bold;">
+
+  111년 전통의 역사를 자랑하는 SNUST 식당
+
+  최고급 퀄리티만을 고집하는 SNUST 식당
+
+  항상 최상의 서비스만을 제공하는 SNUST 식당
+
+</pre>
+
+    <h1>찾아오시는 길</h1>
+    <div id="map" style="height: 500px;">
+    </div>
+
+    <footer>
+      © SNUST 2023 by Kang 
+    </footer>
+  </body>
+</html>

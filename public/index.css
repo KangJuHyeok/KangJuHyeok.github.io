@@ -1,0 +1,135 @@
+.container{
+	
+	width: 100%; height: 860px;
+	margin: 0px auto;
+	perspective: 800px;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+.wrapper{
+	width: 100%; height: 100%;
+	position: relative;
+	margin: auto;
+	transform-style: preserve-3d;
+	transition-duration: 1s;
+	color: black;
+}
+
+i{
+	font-size: 20px;
+	margin-left :10px;
+}
+i:hover{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.wrapper > .page{ 
+	position: absolute;
+	width: 100%; height: 100%;
+	position: absolute;
+	left: 0; top: 0;
+	padding-top: 80px;
+	backface-visibility: hidden;
+}
+.page > h1{ 
+	padding: 20px; 
+	color: white;
+}
+.wrapper > .page:nth-child(1){
+	background-image: url('img/food_1.jpg');
+	background-size: cover;
+}
+.wrapper > .page:nth-child(2){
+	background-image: url('img/food_5.jpg');
+	background-size: cover;			
+}	
+.wrapper > .page:nth-child(3){
+	background-image: url('img/food_9.jpg');
+	background-size: cover;	
+}
+.wrapper > .page:nth-child(4){
+	background-image: url('img/food_13.jpg');
+	background-size: cover;				
+}							
+#indicator{ 
+	text-align: center; margin-top: 20px;
+	position: absolute;
+	left: 0;right: 0; bottom: 20px;
+}
+#indicator li{
+	display: inline-block;
+	font-size: 12px;
+	padding: 5px 10px; margin: 5px;
+	border: 1px solid #999;
+	border-radius: 50%;
+	color: white;
+	cursor: pointer;
+}
+#indicator li.active{ 
+	background-color: rgba(50%,50%,50%, 0.5);
+	color: white;
+}
+
+ul.icons{
+	overflow: hidden;
+	padding: 64px;
+}
+ul.icons > li{ 
+	display: inline-block; 
+	margin: 0 24px 64px 24px;
+	background: #999;
+	padding: 10px;
+	width: 48px; height: 48px;
+	border-radius: 15px;
+	text-align: center;
+	border: 1px solid rgba(100, 100, 100, 0.3);
+	color: white;
+}
+
+#lightbox.active{
+	position: absolute;overflow: hidden;
+	background:#333;
+	width: 1080px; height: 720px;
+	left: 50%; 
+	top:50%;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;padding: 30px;
+	z-index: 99;display: block;
+}
+#lightbox{ display: none; }
+#lightbox h1, #lightbox p{ 
+	color: white; text-align: center;
+	margin-bottom: 10px;
+}
+/* 이미지 박스 */
+figure{ 
+	width: 720px; height: 540px;
+	position: relative;
+	margin: 10px auto;
+	overflow: hidden;
+}
+figure img{
+	display: none;
+ 	position: absolute;
+}
+figure img.active{ display: block; }
+
+/* 창닫기 버튼 */
+.btn-close{
+	position: absolute;
+	top: 0px; right: 0px;
+	padding: 10px;
+	color: white; font-size: large;
+}
+.btn-close:hover{ background-color: #666; }
+/* 라이트 박스 배경 처리 */
+#block{ 
+	position: fixed;
+	width: 100%; height: 100%;
+	top: 0; bottom: 0; left: 0; right: 0;
+	background: #111;
+	opacity: 0.5; z-index: 9;
+	display: none;
+}
+#block.active{ display: block;}

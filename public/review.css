@@ -1,0 +1,27 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+thead {
+  background-color: #f2f2f2;
+  color: black;
+}
+
+th {
+  text-transform: uppercase;
+}
+
+h1 {
+  text-align: center;
+}

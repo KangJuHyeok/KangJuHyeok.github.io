@@ -1,0 +1,198 @@
+2023-11-16T00:41:47.978945Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe (mysqld 8.0.22) starting as process 17696
+2023-11-16T00:41:47.999960Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-11-16T00:41:48.526583Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-11-16T00:41:48.689656Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-11-16T00:41:48.874840Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-11-16T00:41:48.876994Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-11-16T00:41:48.931318Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-11-16T00:51:24.136650Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe (mysqld 8.0.22) starting as process 7164
+2023-11-16T00:51:24.164074Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-11-16T00:51:24.878103Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-11-16T00:51:25.052394Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-11-16T00:51:25.081968Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-11-16T00:51:25.088639Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-11-16T00:51:25.146747Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-11-16T00:51:25.147667Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-11-16T00:51:25.196754Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-11-16T01:17:36.346599Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe (mysqld 8.0.22) starting as process 3400
+2023-11-16T01:17:36.387582Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-11-16T01:17:37.142016Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-11-16T01:17:37.322549Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-11-16T01:17:37.353511Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-11-16T01:17:37.363954Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-11-16T01:17:37.422643Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-11-16T01:17:37.423629Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-11-16T01:17:37.473574Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-11-16T01:36:51.698627Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe (mysqld 8.0.22) starting as process 7924
+2023-11-16T01:36:51.701396Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2023-11-16T01:36:51.732043Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-11-16T01:36:52.577059Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-11-16T01:36:52.764420Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-11-16T01:36:52.794701Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-11-16T01:36:52.802304Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-11-16T01:36:52.877709Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-11-16T01:36:52.878894Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-11-16T01:36:52.945234Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-11-30T00:22:34.109472Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe (mysqld 8.0.22) starting as process 20104
+2023-11-30T00:22:34.207738Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-11-30T00:22:35.204795Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-11-30T00:22:35.400681Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-11-30T00:22:35.442507Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-11-30T00:22:35.449693Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-11-30T00:22:35.561328Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-11-30T00:22:35.562488Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-11-30T00:22:35.662376Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\고급웹프로그래밍\mysql-8.0.22-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-11-30T00:51:25.947405Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 12272
+2023-11-30T00:51:25.974994Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-11-30T00:51:26.797133Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-11-30T00:51:26.980509Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-11-30T00:51:27.015172Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-11-30T00:51:27.023309Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-11-30T00:51:27.100696Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-11-30T00:51:27.102084Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-11-30T00:51:27.162185Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-03T14:34:36.809903Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 21440
+2023-12-03T14:34:36.919416Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-03T14:34:37.941115Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-03T14:34:38.194427Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-03T14:34:38.239007Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-03T14:34:38.246683Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-03T14:34:38.357087Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-03T14:34:38.358186Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-03T14:34:38.441468Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-03T15:28:56.164142Z 13 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2023-12-03T16:11:34.256527Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 20348
+2023-12-03T16:11:34.281603Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-03T16:11:35.220584Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-03T16:11:35.385192Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-03T16:11:35.416363Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-03T16:11:35.421810Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-03T16:11:35.485766Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-03T16:11:35.486566Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-03T16:11:35.535096Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-03T16:35:19.637639Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 18316
+2023-12-03T16:35:19.664543Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-03T16:35:20.492673Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-03T16:35:20.657329Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-03T16:35:20.686864Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-03T16:35:20.691823Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-03T16:35:20.743545Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-03T16:35:20.744406Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-03T16:35:20.799422Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-03T17:07:36.682106Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 18848
+2023-12-03T17:07:36.707776Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-03T17:07:37.524643Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-03T17:07:37.710433Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-03T17:07:37.741183Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-03T17:07:37.746506Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-03T17:07:37.815359Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-03T17:07:37.816225Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-03T17:07:37.871041Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-04T01:44:31.511777Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 13468
+2023-12-04T01:44:31.540387Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-04T01:44:32.297057Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-04T01:44:32.515132Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-04T01:44:32.553146Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-04T01:44:32.559562Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-04T01:44:32.650011Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-04T01:44:32.651482Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-04T01:44:32.719196Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-04T06:17:29.870478Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 10044
+2023-12-04T06:17:29.899805Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-04T06:17:30.685345Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-04T06:17:30.877771Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-04T06:17:30.918905Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-04T06:17:30.925472Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-04T06:17:31.009866Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-04T06:17:31.010987Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-04T06:17:31.074476Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-07T00:10:15.931066Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 7780
+2023-12-07T00:10:16.031080Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-07T00:10:16.893818Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-07T00:10:17.093119Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-07T00:10:17.142971Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-07T00:10:17.151076Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-07T00:10:17.265301Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-07T00:10:17.266269Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-07T00:10:17.333098Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-07T03:09:42.804060Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 19216
+2023-12-07T03:09:42.890468Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-07T03:09:43.820937Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-07T03:09:44.020252Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-07T03:09:44.053898Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-07T03:09:44.061613Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-07T03:09:44.182715Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-07T03:09:44.183769Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-07T03:09:44.315329Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-07T03:43:35.982742Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 3912
+2023-12-07T03:43:36.010656Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-07T03:43:36.724687Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-07T03:43:36.896358Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-07T03:43:36.929774Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-07T03:43:36.937658Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-07T03:43:37.003703Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-07T03:43:37.004584Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-07T03:43:37.055716Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-07T04:49:31.948660Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 11412
+2023-12-07T04:49:31.976245Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-07T04:49:32.848088Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-07T04:49:33.027807Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-07T04:49:33.060626Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-07T04:49:33.067276Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-07T04:49:33.135736Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-07T04:49:33.136634Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-07T04:49:33.197481Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-07T11:11:31.447125Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 14352
+2023-12-07T11:11:31.523630Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-07T11:11:32.324336Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-07T11:11:32.518126Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-07T11:11:32.549502Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-07T11:11:32.553826Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-07T11:11:32.630137Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-07T11:11:32.631592Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-07T11:11:32.678906Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-09T10:32:11.278271Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 16300
+2023-12-09T10:32:11.368232Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-09T10:32:12.303281Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-09T10:32:12.463809Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-09T10:32:12.494108Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-09T10:32:12.499029Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-09T10:32:12.657623Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-09T10:32:12.658439Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-09T10:32:12.727510Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-10T02:12:43.690452Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 18428
+2023-12-10T02:12:43.771440Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-10T02:12:44.783761Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-10T02:12:44.938837Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-10T02:12:44.973110Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-10T02:12:44.978097Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-10T02:12:45.070297Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-10T02:12:45.071063Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-10T02:12:45.129391Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-10T08:57:50.070046Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 23412
+2023-12-10T08:57:50.119827Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-10T08:57:51.074274Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-10T08:57:51.222512Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-10T08:57:51.247752Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-10T08:57:51.252438Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-10T08:57:51.354000Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-10T08:57:51.354764Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-10T08:57:51.407618Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-15T00:58:28.622157Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 20376
+2023-12-15T00:58:28.725785Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-15T00:58:29.795679Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-15T00:58:29.996183Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-15T00:58:30.034661Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-15T00:58:30.041279Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-15T00:58:30.169736Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-15T00:58:30.171196Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-15T00:58:30.269581Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-15T07:44:46.397919Z 0 [System] [MY-010116] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 11920
+2023-12-15T07:44:46.484802Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-15T07:44:47.335254Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-15T07:44:47.519314Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-15T07:44:47.551634Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-15T07:44:47.559314Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-15T07:44:47.718093Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-15T07:44:47.719101Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-15T07:44:47.779916Z 0 [System] [MY-010931] [Server] C:\Users\Lenovo\Desktop\레스토랑\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SNUST Restaurant</title>
+    <link rel="stylesheet" type="text/css" href="/index.css">
+    <link rel="stylesheet" href="/common.css">
+    <script src="/main.js"></script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div>
+        <a href="/index.html">
+          <img src="/img/logo.png" alt="#" class="SNUST">
+        </a>
+      </div>
+      
+      <ul class="nav_menu">
+        <li><a href="/about.html">매장 소개</a></li>
+        <li><a href="/logged/reservation.html">예약</a></li>
+        <li><a href="/order.html">상품주문</a></li>
+        <li><a href="/review.html">리뷰 게시판</a></li>
+      </ul>
+
+      <div class="my"><a href="login.html">로그인</a></div>
+    </nav>
+    <div class="container">
+      <div class="wrapper">
+        <div class="page">
+          <h1>점심 코스 A</h1>
+          <i>자세히 보기</i>
+        </div>
+        <div class="page">
+          <h1>점심 코스 B</h1>
+          <i>자세히 보기</i>
+        </div>
+        <div class="page">
+          <h1>저녁 코스 A</h1>
+          <i>자세히 보기</i>
+        </div>
+        <div class="page">
+          <h1>저녁 코스 B</h1>
+          <i>자세히 보기</i>
+        </div>
+      </div>
+      <ul id="indicator">
+      </ul>
+    </div>
+    <footer>
+      © SNUST 2023 by Kang 
+    </footer>
+
+    <div id="block">
+    </div>
+
+    <div id="lightbox">
+      <div class="menu">
+        <h1>점심 코스 A</h1>
+        <figure>
+          <img src="/img/food_1.jpg" class="active" alt="#">
+          <img src="/img/food_2.jpg" alt="#">
+          <img src="/img/food_3.jpg" alt="#">
+          <img src="/img/food_4.jpg" alt="#">
+        </figure>
+        <p>이 코스는 ~~으로 1이다.</p>
+      </div>
+      <div class="menu" style="display: none;">
+        <h1>점심 코스 B</h1>
+        <figure>
+          <img src="/img/food_5.jpg" class="active" alt="#">
+          <img src="/img/food_6.jpg" alt="#">
+          <img src="/img/food_7.jpg" alt="#">
+          <img src="/img/food_8.jpg" alt="#">
+        </figure>
+        <p>이 코스는 ~~으로 2이다.</p>
+      </div>
+      <div class="menu" style="display: none;">
+        <h1>저녁 코스 A</h1>
+        <figure>
+          <img src="/img/food_9.jpg" class="active" alt="#">
+          <img src="/img/food_10.jpg" alt="#">
+          <img src="/img/food_11.jpg" alt="#">
+          <img src="/img/food_12.jpg" alt="#">
+        </figure>
+        <p>이 코스는 ~~으로 3이다.</p>
+      </div>
+      <div class="menu" style="display: none;">
+        <h1>저녁 코스 B</h1>
+        <figure>
+          <img src="/img/food_13.jpg" class="active" alt="#">
+          <img src="/img/food_14.jpg" alt="#">
+          <img src="/img/food_15.jpg" alt="#">
+          <img src="/img/food_16.jpg" alt="#">
+        </figure>
+        <p>이 코스는 ~~으로 4이다.</p>
+      </div>
+      <!--nightbirds 레스토랑에서 사진 ref-->
+      <div class="move">
+        <span style="float: left;">&larr;</span>
+        <span style="float: right;">&rarr;</span>
+      </div>
+      <div class="btn-close">X</div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SNUST Restaurant</title>
+    <link rel="stylesheet" href="/common.css">
+    <link rel="stylesheet" href="/review.css">
+    <link rel="stylesheet" href="/review_sub.css">
+    <script src="/review.js"></script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div>
+        <a href="/index.html">
+          <img src="/img/logo.png" alt="#" class="SNUST">
+        </a>
+      </div>
+      
+      <ul class="nav_menu">
+        <li><a href="/about.html">매장 소개</a></li>
+        <li><a href="/logged/reservation.html">예약</a></li>
+        <li><a href="/order.html">상품주문</a></li>
+        <li><a href="/review.html" style="border-bottom: solid;">리뷰 게시판</a></li>
+      </ul>
+
+      <div class="my"><a href="login.html">로그인</a></div>
+    </nav>
+
+    <div class="review_containner">
+      <h1>리뷰게시판</h1>
+      <table class="review">
+        <thead>
+          <tr>
+            <th>제목</th>
+            <th>글쓴이</th>
+            <th>작성날짜</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+    <div id="detailsContainer"></div>
+    <button type="button" class="write" onclick="location.href='/logged/write.html'"><a href></a>글쓰기</button>
+
+    <footer>
+      © SNUST 2023 by Kang 
+    </footer>
+  </body>
+</html>

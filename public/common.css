@@ -1,0 +1,58 @@
+@font-face {
+  font-family: '국립박물관문화재단클래식B';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/국립박물관문화재단클래식B.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  background-color: #231F20;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: '국립박물관문화재단클래식B';
+  color: white  ;
+}
+body a{
+  text-decoration: none;
+  color: inherit;
+}
+body .nav_menu a:hover{
+  border-bottom: solid;
+}
+.login a:hover{
+  border-bottom: solid;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px 10px 10px;
+}
+.navbar .SNUST{
+  width: 60px;
+  height: 60px;
+}
+.nav_menu {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}
+
+.nav_menu li {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+.nav_menu li a{
+  padding-bottom: 10px;
+}
+
+.my a{
+  padding-bottom: 10px;
+}
+
+footer{
+  position: fixed;
+  bottom: 0;
+}

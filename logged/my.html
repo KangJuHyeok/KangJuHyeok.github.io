@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SNUST Restaurant</title>
+    <link rel="stylesheet" href="/common.css">
+    <link rel="stylesheet" href="/my.css">
+    <script src="/my.js"></script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div>
+        <a href="/index.html">
+          <img src="/img/logo.png" alt="#" class="SNUST">
+        </a>
+      </div>
+      
+      <ul class="nav_menu">
+        <li><a href="/about.html">매장 소개</a></li>
+        <li><a href="/logged/reservation.html">예약</a></li>
+        <li><a href="/order.html">상품주문</a></li>
+        <li><a href="/review.html">리뷰 게시판</a></li>
+      </ul>
+
+      <div class="my">로그인<a href="my.html"></a></div>
+    </nav>
+    <div class="reservation_containner">
+      <h1>나의 예약 정보</h1>
+      <table class="reserve">
+        <thead>
+          <tr>
+            <th>예약번호</th>
+            <th>예약자</th>
+            <th>날짜</th>
+            <th>시간</th>
+            <th>인원</th>
+            <th>예약 취소</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+    <div class="basket_containner">
+      <h1>나의 장바구니</h1>
+      <table class="basket">
+        <thead>
+          <tr>
+            <th>물건번호</th>
+            <th>물건이름</th>
+            <th>물건가격</th>
+            <th>물건개수</th>
+            <th>가격합</th>
+            <th>취소</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+    
+    <button class="account cancel-button">계산하기</button>
+    <form action="/logout" name="logout" method="get">
+        <input type="submit" name="submit" value="로그아웃" class="cancel-button">
+    </form>
+    <footer>
+      © SNUST 2023 by Kang 
+    </footer>
+  </body>
+</html>

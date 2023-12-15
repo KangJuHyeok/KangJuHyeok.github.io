@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SNUST Restaurant</title>
+    <link rel="stylesheet" href="/common.css">
+    <link rel="stylesheet" href="/order.css">
+    <script src="/order.js"></script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div>
+        <a href="/index.html">
+          <img src="/img/logo.png" alt="#" class="SNUST">
+        </a>
+      </div>
+      
+      <ul class="nav_menu">
+        <li><a href="/about.html">매장 소개</a></li>
+        <li><a href="/logged/reservation.html">예약</a></li>
+        <li><a href="/order.html" style="border-bottom: solid;">상품주문</a></li>
+        <li><a href="/review.html">리뷰 게시판</a></li>
+      </ul>
+
+      <div class="my"><a href="login.html">로그인</a></div>
+    </nav>
+
+    <div class="container">
+      <h1>상품 리스트</h1>
+      <ul class="product-list">
+        <li data-id="1" data-name="SNUST 인형" data-price="3000">
+          <img src="/img/product_1.jpg" alt="#">
+          SNUST 인형 - 3,000원
+        </li>
+        <li data-id="2" data-name="SNUST 돕바" data-price="40000">
+          <img src="/img/product_2.jpg" alt="#">
+          SNUST 돕바 - 40,000원
+        </li>
+        <li data-id="3" data-name="SNUST 항공점퍼" data-price="20000">
+          <img src="/img/product_3.jpg" alt="#">
+          SNUST 항공점퍼 - 20,000원
+        </li>
+        <li data-id="4" data-name="SNUST 잠바(용)" data-price="25000">
+          <img src="/img/product_4.jpg" alt="#">
+          SNUST 잠바(용) - 25,000원
+        </li>
+        <li data-id="5" data-name="SNUST 잠바(로고)" data-price="25000">
+          <img src="/img/product_5.jpg" alt="#">
+          SNUST 잠바(로고) - 25,000원
+        </li>
+        <li data-id="6" data-name="SNUST 돕바(로고)" data-price="40000">
+          <img src="/img/product_6.jpg" alt="#">
+          SNUST 돕바(로고) - 40,000원
+        </li>
+      </ul>
+      <!--https://hycoop.co.kr/category/%EC%84%9C%EC%9A%B8%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%EA%B5%90/214/ 에서 사진 ref-->
+
+      <h2>장바구니</h2>
+      <a href="#" class="btn_basket a"><span data-attr="Basket">Basket</span><span data-attr="Add">Add</span></a>
+      <ul class="cart-list">
+      </ul>
+    </div>
+
+    <footer>
+      © SNUST 2023 by Kang 
+    </footer>
+  </body>
+</html>
